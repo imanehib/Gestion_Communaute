@@ -90,7 +90,7 @@ Ce projet Java a été développé pour résoudre des problèmes de gestion de c
 
 2. **Chargement depuis un fichier :** Indiquez le chemin du fichier texte représentant la communauté d'agglomération lors de l'exécution du programme.
 
-   Exemple : `votrechemin/PAA_HIBAOUI_NAGOUDI_ARROUDJ/src/test.txt`
+   Exemple : `votreChemin/nomProjet/src/test.txt`
 
    Chaque ligne doit être écrite sous la forme proposée dans le document PDF du projet :
    ville(A).
